@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://skhanam-uw.github.io/nbdev_test"
+  description: "testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/skhanam-uw/nbdev_test"
